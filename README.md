@@ -1,5 +1,5 @@
 # Bitcoin-Correlation-Interactive-Report
-An interactive report made in Power-BI using python scripts showcasing bitcoins highest correlation with other assets/metrics with respect through time:
+An interactive report made in Power-BI using python scripts showcasing bitcoins highest correlation with other assets/metrics with respect to time. If two variables are highly positively correlated (value close to 1) with respect to time, they will rise and fall at the same time, or one will follow the other immediately after or before 
 
 ![](https://github.com/harrisasadb/Bitcoin-Correlation-Interactive-Report/blob/main/Animation.gif)
 
